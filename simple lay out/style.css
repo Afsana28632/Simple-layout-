@@ -1,0 +1,85 @@
+body{
+    overflow: hidden;
+}
+#div1{
+width: 100%;
+height: 700px;
+background-color: rgba(0, 0, 0, 0.37)
+}
+
+nav{
+width: 100%;
+height: 90px;
+background-color: whitesmoke;
+text-align: center;
+padding: 10px;
+padding-bottom: 40px;
+color:black;
+margin-top:-7px;
+}
+body{
+background-image: url("IMG_20240722_144708_580.jpg");
+background-size:100% 700px;
+color: antiquewhite;
+text-align: center;
+font-size: 25px
+
+}
+nav img{
+width: 100px;
+height:90px ;
+border: 4px groove rgb(187, 89, 54);
+border-radius:50% ;
+
+}
+.a{
+    padding-bottom: 30px;
+    margin-left: 18px
+}
+#a{
+    margin-left: 20px;
+    border: 1px solid;
+    border-radius: 50px;
+    padding:10px ;
+}
+#b{
+    margin-left: 5px;
+    border: 0px solid;
+    border-radius: 50px;
+    padding: 10px;
+background-color: orangered;
+color: beige
+
+}
+#c{
+    color: orangered;
+    font-size:40px ;
+}
+.d{
+    color: rgb(238, 67, 5)
+}
+.h{
+    font-size: 50px
+}
+.c{
+    font-size: 35px
+}
+#f{
+background-color: whitesmoke;
+color: grey;
+border:1px solid;
+border-radius:50px;
+width: 350px;  
+height: 35px;
+margin-left: 3%
+}
+.fx{
+background-color: orangered;
+color: black;
+border:1px solid;
+border-radius:50px;
+width: 150px;  
+height: 33px;
+margin-left:-160px;
+text-align: center
+}
